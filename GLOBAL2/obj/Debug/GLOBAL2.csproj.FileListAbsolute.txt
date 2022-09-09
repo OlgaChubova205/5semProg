@@ -1,0 +1,17 @@
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\bin\Debug\GLOBAL2.exe.config
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\bin\Debug\GLOBAL2.exe
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\bin\Debug\GLOBAL2.pdb
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\GLOBAL2.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\GLOBAL2_MarkupCompile.cache
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\GLOBAL2_MarkupCompile.lref
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\GLOBAL2.g.resources
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\GLOBAL2.Properties.Resources.resources
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\GLOBAL2.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\GLOBAL2.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\GLOBAL2.exe
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\GLOBAL2.pdb
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\otrasl.g.cs
+C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\otrasl.baml

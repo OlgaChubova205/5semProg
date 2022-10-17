@@ -58,5 +58,5 @@ y = 1,5918x + 28,626
 
 ![image](https://user-images.githubusercontent.com/112687883/196147736-b2d03bd1-5bfd-4280-921d-14ac051a11c2.png)
 ![image](https://user-images.githubusercontent.com/112687883/196147779-76335fd2-0cf5-406c-b36b-63c313001adf.png)
-
+.
 

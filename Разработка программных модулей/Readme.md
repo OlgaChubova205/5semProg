@@ -61,5 +61,6 @@ y = 1,5918x + 28,626
 .
 
 ![image](https://user-images.githubusercontent.com/112687883/196535638-0b250ba0-b350-4728-8720-cca60d2c05d4.png)
+![image](https://user-images.githubusercontent.com/112687883/196630219-b59b7fee-5c2e-4dff-b914-0c88c19e8edc.png)
 
 

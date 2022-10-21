@@ -70,7 +70,8 @@ y = 1,5918x + 28,626
 
 Стандартные алгоритмы машинного обучения
 Линейные модели
-Деревья решений и ансамбли
+Деревья решений и ансамбли[Mir_kino.pptx](https://github.com/OlgaChubova205/5semProg/files/9837106/Mir_kino.pptx)
+
 Постановка задачи: Узнать цену квартиры
 Дано: Площадь квартиры и расстояние до метро изображение
 изображение
@@ -105,4 +106,5 @@ y = 1,5918x + 28,626
 ![image](https://user-images.githubusercontent.com/112687883/197147681-453404de-1798-4098-bd9f-5e0f323e8b54.png)
 
 
+[Mir_kino.pptx](https://github.com/OlgaChubova205/5semProg/files/9837107/Mir_kino.pptx)
 

@@ -107,4 +107,4 @@ y = 1,5918x + 28,626
 
 
 [Mir_kino.pptx](https://github.com/OlgaChubova205/5semProg/files/9837107/Mir_kino.pptx)
-
+.

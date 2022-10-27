@@ -15,3 +15,20 @@ C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\GLOBA
 C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\GLOBAL2.pdb
 C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\otrasl.g.cs
 C:\Users\Администратор\source\repos\GLOBAL2\GLOBAL2\obj\Debug\otrasl.baml
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\obj\Debug\GLOBAL2.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\obj\Debug\GLOBAL2.exe
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\obj\Debug\GLOBAL2.pdb
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\bin\Debug\GLOBAL2.exe.config
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\bin\Debug\GLOBAL2.exe
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\bin\Debug\GLOBAL2.pdb
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\obj\Debug\otrasl.g.cs
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\obj\Debug\Window1.g.cs
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\obj\Debug\GLOBAL2_MarkupCompile.cache
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\obj\Debug\GLOBAL2_MarkupCompile.lref
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\obj\Debug\otrasl.baml
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\obj\Debug\Window1.baml
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\obj\Debug\GLOBAL2.g.resources
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\obj\Debug\GLOBAL2.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\obj\Debug\GLOBAL2.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Новая папка\GLOBAL\GLOBAL2\obj\Debug\GLOBAL2.csproj.CoreCompileInputs.cache

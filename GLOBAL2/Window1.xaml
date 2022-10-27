@@ -1,0 +1,25 @@
+﻿<Window x:Class="GLOBAL2.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GLOBAL2"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Background= "Aqua"></Grid>
+        <Image x:Name="GS_Logo_Color_jpg" Source="GS_Logo_Color.jpg " Grid.Column="0" VerticalAlignment="Top"/>
+        <Button Height="50">Выбор отрасли</Button>
+        <StackPanel Grid.Column="1" >
+            <Label Foreground="Black" >Название компании</Label>
+            <TextBlock> Одна из крупнейших авиастроительных компаний в мире, образованная в конце 1970-х годов путём слияния нескольких европейских авиапроизводителей. Производит пассажирские, грузовые и военно-транспортные самолёты под маркой GLOBAL.</TextBlock>
+
+        </StackPanel>
+        
+
+    </Grid>
+</Window>

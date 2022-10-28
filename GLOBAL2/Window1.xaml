@@ -20,6 +20,16 @@
 
         </StackPanel>
         
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="1" Background= "Yellow">
+                
+            </Grid>
+        </Grid>
+        
 
     </Grid>
 </Window>

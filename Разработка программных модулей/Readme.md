@@ -2,7 +2,7 @@
 Выбрать отрасль производства - .............. Придумать свою или взять известный бренд. Название....... Найти(сделать) логотип - вставить картинку
 Этап Конвейера. Пример: машина - есть 4колеса
 
-
+https://colab.research.google.com/drive/1ji4VL1lckwSylE7ZL1L1xWb5hbhEQLaa?usp=sharing
 
 Два вида работ
 
@@ -171,5 +171,11 @@ OpenCV - библиотека компьютерного зрения
 ()Автоматизировать с помощью компьютерного зрения()
 
 
+код нужно выполнить каждый раз, когда работает с коллабом
+![image](https://user-images.githubusercontent.com/112687883/198976429-294d6661-6a25-4163-86c6-560db84885fa.png)
+![image](https://user-images.githubusercontent.com/112687883/198976898-a04fbfdb-2372-44c3-a96a-21f4bb95e760.png)
+
+добавляем гугл диск, чтобы иметь доступ к файлам с любого компьютера
+https://colab.research.google.com/drive/1ji4VL1lckwSylE7ZL1L1xWb5hbhEQLaa?usp=sharing
 
 

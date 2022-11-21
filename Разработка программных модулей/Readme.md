@@ -239,7 +239,6 @@ rgb2gray функция преобразует изображения RGB в ш�
 ![image](https://user-images.githubusercontent.com/112687883/203105441-05ce52d9-78fa-42ef-aeaf-4ebcf72f4c23.png)
 ![image](https://user-images.githubusercontent.com/112687883/203105482-a79fb2f1-3085-47d4-84e8-1a63742a84f6.png)
 ![image](https://user-images.githubusercontent.com/112687883/203105526-b865de42-9563-453f-ac5e-52abd8f48977.png)
-![image](https://user-images.githubusercontent.com/112687883/203105709-37b62cf0-8a7a-4cad-9b36-125323b3842c.png)
 ![image](https://user-images.githubusercontent.com/112687883/203105768-96d7dfcd-0c47-422e-8a17-233e88b88142.png)
 ![image](https://user-images.githubusercontent.com/112687883/203105823-54de9edd-efe1-4273-8526-62996067240b.png)
 ![image](https://user-images.githubusercontent.com/112687883/203105857-0e450d4f-f4e8-4b8b-b752-c967a2c6a4d2.png)

@@ -49,3 +49,5 @@ C:\Users\Администратор\Desktop\Новая папка\5semProg\GLOBA
 C:\Users\Администратор\Desktop\Новая папка\5semProg\GLOBAL2\obj\Debug\GLOBAL2.csproj.CoreCompileInputs.cache
 C:\Users\Администратор\Desktop\Новая папка\5semProg\GLOBAL2\obj\Debug\GLOBAL2.exe
 C:\Users\Администратор\Desktop\Новая папка\5semProg\GLOBAL2\obj\Debug\GLOBAL2.pdb
+C:\Users\Администратор\Desktop\Новая папка\5semProg\GLOBAL2\obj\Debug\SIZ.g.cs
+C:\Users\Администратор\Desktop\Новая папка\5semProg\GLOBAL2\obj\Debug\SIZ.baml

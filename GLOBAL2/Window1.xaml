@@ -13,7 +13,11 @@
         </Grid.ColumnDefinitions>
         <Grid Grid.Column="0" Background= "Aqua"></Grid>
         <Image x:Name="GS_Logo_Color_jpg" Source="GS_Logo_Color.jpg " Grid.Column="0" VerticalAlignment="Top"/>
-        <Button Height="50">Выбор отрасли</Button>
+        <StackPanel VerticalAlignment="Center">
+            <Button Height="50" Click="Otrasl_Click">Выбор отрасли</Button>
+            <Button Height="50" Click="SIZ_Click">СИЗ</Button>
+        </StackPanel>
+        
         <StackPanel Grid.Column="1" >
             <Label Foreground="Black" >Название компании</Label>
             <TextBlock> Одна из крупнейших авиастроительных компаний в мире, образованная в конце 1970-х годов путём слияния нескольких европейских авиапроизводителей. Производит пассажирские, грузовые и военно-транспортные самолёты под маркой GLOBAL.</TextBlock>
@@ -26,7 +30,7 @@
                 <RowDefinition Height="*"></RowDefinition>
             </Grid.RowDefinitions>
             <Grid Grid.Row="1" Background= "Yellow">
-                
+                <Frame Grid.Row ="1" Name ="MainFrame"></Frame>
             </Grid>
         </Grid>
         

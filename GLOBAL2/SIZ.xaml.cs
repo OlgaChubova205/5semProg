@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,31 +11,24 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace GLOBAL2
 {
     /// <summary>
-    /// Логика взаимодействия для Window1.xaml
+    /// Логика взаимодействия для SIZ.xaml
     /// </summary>
-    public partial class Window1 : Window
+    public partial class SIZ : Page
     {
-        public Window1()
+        public SIZ()
         {
             InitializeComponent();
         }
 
-
-        
-
-        private void Otrasl_Click(object sender, RoutedEventArgs e)
+        private void Roboflow_Click(object sender, RoutedEventArgs e)
         {
-            MainFrame.Navigate(new otrasl());
-        }
-
-        private void SIZ_Click(object sender, RoutedEventArgs e)
-        {
-            MainFrame.Navigate(new SIZ());
+            Process.Start("https://olgachubova205.github.io/Kaski/"); //открытие ссылки в браузере 
         }
     }
 }
